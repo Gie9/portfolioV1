@@ -1,0 +1,21 @@
+#main-header img {
+	/* height: 100%;
+    width: 100%; */
+}
+
+#main-header .port-item {
+	width: 30%;
+	padding-bottom: 3.7em;
+	padding-top: 3.7em;
+}
+
+#main-header .port-item:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+/* @media(min-width: 1199px) {
+    .port-item {
+        padding: 4.5em !important;
+    }
+} */
